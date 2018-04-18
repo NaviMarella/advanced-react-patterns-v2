@@ -38,7 +38,7 @@
     "precommit": "npm run validate"
   },
   "jest": {
-    "collectCoverageFrom" : [
+    "collectCoverageFrom": [
       "src/exercises-final/**/*.js"
     ]
   },
